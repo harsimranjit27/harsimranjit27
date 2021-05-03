@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Harsimran
-- 👀 I’m interested in web development and creating something useful out of that. Apart from web development, I also like coding in Java.
+- 👀 I’m interested in web development and creating something useful out of that.
+     Apart from web development, I also like coding in Java.
 - 📚 Till now I have learnt HTML, CSS, Javascript, jQuery. Also I have learnt C language and Java.
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on projects that are helpful and impactful for community
