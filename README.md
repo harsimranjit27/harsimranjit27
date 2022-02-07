@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Harsimran
-- 👀 I’m interested in web development and creating something useful out of that.
-     Apart from web development, I also like coding in Java.
-- 📚 Till now I have learnt HTML, CSS, Javascript, jQuery. Also I have learnt C language and Java.
-- 🌱 I’m currently learning DSA and C++
+- 👀 Interested in web development and creating something useful out of that.
+     Apart from web development, I also like to code in Java.
+- 📚 Built projects in HTML5, CSS3, Javascript(ES6), ReactJs, BootStrap4.
+- 🌱 I’m currently learning NodeJs, ExpressJs
 - 💞️ I’m looking to collaborate on projects that are helpful and impactful for community
 - 📫 You can reach me on www.linkedin.com/in/harsimranjit27
 
